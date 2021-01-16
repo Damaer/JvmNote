@@ -61,6 +61,3 @@ PS：本笔记是在宋红康老师的JVM视频中学习的笔记，均经过实
 此文章仅代表自己（本菜鸟）学习积累记录，或者学习笔记，如有侵权，请联系作者核实删除。人无完人，文章也一样，文笔稚嫩，在下不才，勿喷，如果有错误之处，还望指出，感激不尽~ 
 
 <div align=center><img width="550" height="200" src="https://markdownpicture.oss-cn-qingdao.aliyuncs.com/20210107005121.png"/></div>
-
-
-
